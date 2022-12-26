@@ -1,5 +1,4 @@
-# desafio-refera-
-
+# Solução do desafio Refera
 
 A forma que foi feita o carregamento de dados foi com a janela de encaixe clonando e rodando o docker compose up, com a utilização do link HTTPS e Docker desktop. Segue print do container:
 
